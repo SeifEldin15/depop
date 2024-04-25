@@ -1,0 +1,29 @@
+.SecondNav{
+    
+    display: flex;
+    align-items: center;
+    width:100%;
+}
+.SecondNav a{
+    background: rgb(255, 255, 255);
+    padding: 16px;
+    border: 0px;
+    color: rgb(38, 38, 38);
+    cursor: pointer;
+    font-weight: 800;
+    transition: 0.3s;
+}
+.SecondNav a:hover{
+    background:  rgb(38, 38, 38);
+ 
+    color:rgb(255, 255, 255);
+ 
+}
+.salelink{
+    color: red !important;
+
+}
+.salelink:hover{
+    background-color: red !important;
+    color:white !important;
+}

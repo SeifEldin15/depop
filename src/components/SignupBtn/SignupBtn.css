@@ -1,0 +1,15 @@
+.SignupBtn{
+    display: flex;
+     align-items: center;
+     font-weight: 800;
+
+    justify-content: center;
+    padding: 10px 14px;
+    border-radius: 2px;
+     color: rgb(0, 0, 0);
+     border-color: rgb(0, 0, 0);
+    border-width: 2px;
+    border-style: solid;
+    text-decoration: none;
+    transition: all 0.2s ease 0s;
+}

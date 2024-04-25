@@ -1,0 +1,15 @@
+.Sell{
+    display: flex;
+     align-items: center;
+     justify-content: center;
+    padding: 10px 14px;
+    border-radius: 2px;
+    background-color: rgb(38, 38, 38);
+    color: rgb(255, 255, 255);
+     border-color: rgb(38, 38, 38);
+    border-width: 2px;
+    border-style: solid;
+     transition: all 0.2s ease 0s;
+     font-weight: 800;
+
+  }
